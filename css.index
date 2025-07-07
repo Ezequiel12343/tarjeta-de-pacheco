@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carta de Presentación</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+    </style>
+</head>
+
+<body>
+
+    <div class="carta">
+       <a href="https://ibb.co/twgfJRXK"><img src="https://i.ibb.co/twgfJRXK/gigachad-removebg-preview.png" alt="gigachad-removebg-preview" border="0"></a>
+
+        <h1>Ezequiel Pacheco</h1>
+        <ul>
+            <li>Estudiante de la skibidi tecnica</li>
+            <li>Esta en 5to año en cuerpo, en mente esta en sexto.....de primaria</li>
+            <li>Me gusta el hard rock, en especial metallica, javascript le parece interesante aunque le confunde una
+                bocha con c++ y a la vez con c, ama los simuladores de carreras extremos</li>
+        </ul>
+    </div>
+
+</body>
+
+</html>
